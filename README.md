@@ -1,21 +1,27 @@
 # Indian-Energy-Production-1990-2020-EDA
-India's Energy Production from 1990-2020 (EDA)
+#### About Dataset
 
-About Dataset
+##### Data on Energy by Our World in Data.
 
-Data on Energy by Our World in Data
-This dataset is a collection of key metrics maintained by Our World in Data. It is updated regularly and includes data on energy consumption (primary energy, per capita, and growth rates), energy mix, electricity mix, and other relevant metrics
+This dataset is a collection of key metrics maintained by Our World in Data. It is updated regularly and includes data on energy consumption (primary energy, per capita, and growth rates), energy mix, electricity mix, and other relevant metrics.
 
 
-The dataset was re-worked for data visualization
+
+The dataset was reworked for data visualization.
 The original dataset 'World Energy Consumption' created by Our World in Data has been transformed to show Indian Electricity Production and consumption patterns from 1990-2020.
 As a result, I have used the final outcome for visualization purposes.
-Original dataset by Our World in Data: https://www.kaggle.com/datasets/pralabhpoudel/world-energy-consumption
-Information has been taken to fulfill missing values (GDP, population) from: https://data.worldbank.org
-Domain: Energy
-Context:
+
+##### Original dataset by Our World in Data: https://www.kaggle.com/datasets/pralabhpoudel/world-energy-consumption
+
+##### Information has been taken to fulfill missing values (GDP, population) from: https://data.worldbank.org
+
+##### Domain: Energy
+
+##### Context:
 This project mainly focuses on data analysis of India's energy production and consumption of electricity from various sources such as renewable and non-renewable energy sources (Hydropower, Coal, Solar, Nuclear, etc.). Trends, Percentage of share between different sources, and comparisons have been done from the year 1990-2020.
-Data Dictionary:
+
+#### Data Dictionary:
+
 1. biofuel_electricity: Electricity generation from biofuels, measured in terawatt-hours
 2. coal_electricity: Electricity generation from coal, measured in terawatt-hours
 3. gas_electricity: Electricity generation from gas, measured in terawatt-hours
